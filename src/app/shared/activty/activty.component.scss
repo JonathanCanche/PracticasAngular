@@ -1,0 +1,21 @@
+.flex-container-card{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+
+
+    .titulo-card{
+        color: #55586f;
+        font-size: 18px;
+    }
+    
+    .subtitlo-card{
+        font-size: 13px;
+        color: #55586f;
+    }
+
+    .hora-card{
+        font-size: 13px;
+    }
+}
+
